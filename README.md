@@ -1,5 +1,6 @@
 
-####   Before executing program we need to pre-install the below libraries #####
+####   Before executing the program we need to pre-install the below libraries. #####
+## so for this, You just copy the libraries and paste them in "pip install <package_name>
 
 from ast import Import -->  Abstract Syntax Trees (AST) Import
 
